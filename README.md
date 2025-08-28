@@ -70,14 +70,3 @@ A consolidated, **drill-down view** of borrower and loan-level data, including:
 
 ---
 
-## 📽️ Reference  
-Tutorial inspiration from [Data Tutorials](https://www.youtube.com/@datatutorials1).  
-
----
-
-## 📷 Dashboard Previews  
-*(Add screenshots of your dashboards here for visual impact)*  
-
-- ![Summary Dashboard](images/summary_dashboard.png)  
-- ![Overview Dashboard](images/overview_dashboard.png)  
-- ![Details Dashboard](images/details_dashboard.png)  
