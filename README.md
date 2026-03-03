@@ -49,7 +49,7 @@ A consolidated, **drill-down view** of borrower and loan-level data, including:
 
 ---
 
-## 🛠️ Tools & Skills Used  
+##  Tools & Skills Used  
 - **Microsoft Excel**: Advanced formulas, PivotTables, slicers, and conditional formatting.  
 - **Data Visualization**: Interactive dashboards with charts, maps, and KPIs.  
 - **Financial Analytics**: Loan portfolio analysis, repayment tracking, risk segmentation.  
