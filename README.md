@@ -14,6 +14,8 @@ Banks need to monitor and evaluate their loan portfolios to ensure profitability
 ---
 
 ##  Dashboards & Features  
+<img width="1206" height="579" alt="image" src="https://github.com/user-attachments/assets/903a1f03-7e49-45eb-9484-3735a0ace38b" />
+
 
 ### **1. Summary Dashboard**  
 A high-level overview of loan portfolio health:  
