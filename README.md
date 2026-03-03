@@ -1,11 +1,11 @@
 # Bank_Loan_Project_Excel
-# 💰 Bank Loan Report (Excel Project)
+#  Bank Loan Report (Excel Project)
 
 This project presents a **Bank Loan Report** built using **Microsoft Excel**. The report provides a comprehensive analysis of the bank’s lending activities, offering insights into loan applications, funding, repayments, borrower characteristics, and portfolio performance. By leveraging advanced Excel functionalities, dashboards, and visualizations, this project supports **data-driven decision-making** for banking and financial operations.
 
 ---
-
-## 🧠 Problem Statement  
+Problem
+##   Statement  
 Banks need to monitor and evaluate their loan portfolios to ensure profitability, minimize risk, and enhance lending strategies. This project addresses that need by:  
 - Tracking **key loan KPIs** such as applications, funded amounts, repayments, interest rates, and borrower debt-to-income ratios.  
 - Differentiating between **Good Loans** (fully paid/current) and **Bad Loans** (charged off).  
@@ -13,7 +13,7 @@ Banks need to monitor and evaluate their loan portfolios to ensure profitability
 
 ---
 
-## 📊 Dashboards & Features  
+##  Dashboards & Features  
 
 ### **1. Summary Dashboard**  
 A high-level overview of loan portfolio health:  
@@ -55,15 +55,14 @@ A consolidated, **drill-down view** of borrower and loan-level data, including:
 - **Financial Analytics**: Loan portfolio analysis, repayment tracking, risk segmentation.  
 
 ---
-
-## 🚀 Key Takeaways  
+##  Key Takeaways  
 - Designed a **multi-dashboard reporting system** in Excel for end-to-end loan monitoring.  
 - Delivered **data-driven insights** to distinguish between profitable vs. risky lending.  
 - Enabled **strategic decision-making** for loan portfolio management.  
 
 ---
 
-## 📌 How to Use  
+##  How to Use  
 1. Download the Excel file from this repository.  
 2. Open the **Summary, Overview, and Details Dashboards** tabs for insights.  
 3. Use slicers and filters to explore the loan data interactively.  
